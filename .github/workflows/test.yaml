@@ -4,7 +4,7 @@
 # When using external actions check that the external repos are permitted via
 # the GitHub configuration at https://github.com/twisted/twisted/settings/actions
 #
-name: CI
+name: issue-10924-local network access
 
 on:
   push:
